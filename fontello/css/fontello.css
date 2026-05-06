@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?33062939');
-  src: url('../font/fontello.eot?33062939#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?33062939') format('woff2'),
-       url('../font/fontello.woff?33062939') format('woff'),
-       url('../font/fontello.ttf?33062939') format('truetype'),
-       url('../font/fontello.svg?33062939#fontello') format('svg');
+  src: url('../font/fontello.eot?81630459');
+  src: url('../font/fontello.eot?81630459#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?81630459') format('woff2'),
+       url('../font/fontello.woff?81630459') format('woff'),
+       url('../font/fontello.ttf?81630459') format('truetype'),
+       url('../font/fontello.svg?81630459#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?33062939#fontello') format('svg');
+    src: url('../font/fontello.svg?81630459#fontello') format('svg');
   }
 }
 */
@@ -54,14 +54,15 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-reddit:before { content: '\e800'; } /* '' */
-.icon-happyface:before { content: '\e801'; } /* '' */
-.icon-twitter_x:before { content: '\e802'; } /* '' */
-.icon-youtube:before { content: '\e803'; } /* '' */
-.icon-soundcloud:before { content: '\e804'; } /* '' */
-.icon-gamejolt:before { content: '\e805'; } /* '' */
-.icon-discord:before { content: '\e806'; } /* '' */
-.icon-itchio:before { content: '\e807'; } /* '' */
-.icon-steam:before { content: '\e808'; } /* '' */
-.icon-spotify:before { content: '\e809'; } /* '' */
-.icon-twitch:before { content: '\e80a'; } /* '' */
+.icon-discord:before { content: '\e800'; } /* '' */
+.icon-gamejolt:before { content: '\e801'; } /* '' */
+.icon-happyface:before { content: '\e802'; } /* '' */
+.icon-spotify:before { content: '\e804'; } /* '' */
+.icon-steam:before { content: '\e805'; } /* '' */
+.icon-reddit:before { content: '\e806'; } /* '' */
+.icon-soundcloud:before { content: '\e807'; } /* '' */
+.icon-twitch:before { content: '\e808'; } /* '' */
+.icon-twitter_x:before { content: '\e809'; } /* '' */
+.icon-itchio:before { content: '\e80a'; } /* '' */
+.icon-buymeacoffee:before { content: '\e80b'; } /* '' */
+.icon-tiktok:before { content: '\e80c'; } /* '' */
