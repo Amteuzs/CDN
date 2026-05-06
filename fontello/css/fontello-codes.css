@@ -1,13 +1,15 @@
 
-.-discord:before { content: '\e800'; } /* '' */
-.-gamejolt:before { content: '\e801'; } /* '' */
-.-happyface:before { content: '\e802'; } /* '' */
-.-spotify:before { content: '\e804'; } /* '' */
-.-steam:before { content: '\e805'; } /* '' */
-.-reddit:before { content: '\e806'; } /* '' */
-.-soundcloud:before { content: '\e807'; } /* '' */
-.-twitch:before { content: '\e808'; } /* '' */
-.-twitter_x:before { content: '\e809'; } /* '' */
-.-itchio:before { content: '\e80a'; } /* '' */
-.-buymeacoffee:before { content: '\e80b'; } /* '' */
-.-tiktok:before { content: '\e80c'; } /* '' */
+.icon-discord:before { content: '\e800'; } /* '' */
+.icon-gamejolt:before { content: '\e801'; } /* '' */
+.icon-happyface:before { content: '\e802'; } /* '' */
+.icon-youtube:before { content: '\e803'; } /* '' */
+.icon-steam:before { content: '\e805'; } /* '' */
+.icon-reddit:before { content: '\e806'; } /* '' */
+.icon-soundcloud:before { content: '\e807'; } /* '' */
+.icon-twitch:before { content: '\e808'; } /* '' */
+.icon-twitter_x:before { content: '\e809'; } /* '' */
+.icon-itchio:before { content: '\e80a'; } /* '' */
+.icon-buymeacoffee:before { content: '\e80b'; } /* '' */
+.icon-tiktok:before { content: '\e80c'; } /* '' */
+.icon-github:before { content: '\e80d'; } /* '' */
+.icon-spotify:before { content: '\e80e'; } /* '' */
