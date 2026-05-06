@@ -1,1 +1,3 @@
-console.log("testing CDN...");
+const info = "testing CDN...";
+
+console.log(info);
