@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?30945378');
-  src: url('../font/fontello.eot?30945378#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?30945378') format('woff2'),
-       url('../font/fontello.woff?30945378') format('woff'),
-       url('../font/fontello.ttf?30945378') format('truetype'),
-       url('../font/fontello.svg?30945378#fontello') format('svg');
+  src: url('../font/fontello.eot?78532318');
+  src: url('../font/fontello.eot?78532318#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?78532318') format('woff2'),
+       url('../font/fontello.woff?78532318') format('woff'),
+       url('../font/fontello.ttf?78532318') format('truetype'),
+       url('../font/fontello.svg?78532318#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?30945378#fontello') format('svg');
+    src: url('../font/fontello.svg?78532318#fontello') format('svg');
   }
 }
 */
@@ -58,6 +58,7 @@
 .icon-gamejolt:before { content: '\e801'; } /* '' */
 .AZS-happyface:before { content: '\e802'; } /* '' */
 .icon-youtube:before { content: '\e803'; } /* '' */
+.AZS-list:before { content: '\e804'; } /* '' */
 .icon-steam:before { content: '\e805'; } /* '' */
 .icon-reddit:before { content: '\e806'; } /* '' */
 .icon-soundcloud:before { content: '\e807'; } /* '' */
@@ -68,3 +69,4 @@
 .icon-tiktok:before { content: '\e80c'; } /* '' */
 .icon-github:before { content: '\e80d'; } /* '' */
 .icon-spotify:before { content: '\e80e'; } /* '' */
+.AZS-x:before { content: '\e80f'; } /* '' */

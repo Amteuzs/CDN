@@ -3,6 +3,7 @@
 .icon-gamejolt:before { content: '\e801'; } /* '' */
 .icon-happyface:before { content: '\e802'; } /* '' */
 .icon-youtube:before { content: '\e803'; } /* '' */
+.icon-list:before { content: '\e804'; } /* '' */
 .icon-steam:before { content: '\e805'; } /* '' */
 .icon-reddit:before { content: '\e806'; } /* '' */
 .icon-soundcloud:before { content: '\e807'; } /* '' */
@@ -13,3 +14,4 @@
 .icon-tiktok:before { content: '\e80c'; } /* '' */
 .icon-github:before { content: '\e80d'; } /* '' */
 .icon-spotify:before { content: '\e80e'; } /* '' */
+.icon-x:before { content: '\e80f'; } /* '' */
